@@ -10,7 +10,6 @@ npm install
 ```
 
 2. Ensure MongoDB is running locally
-   - Database Name: foundkittens
    - Port: 27017
    - No authentication required for local development
 
