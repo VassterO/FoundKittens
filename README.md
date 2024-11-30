@@ -1,5 +1,7 @@
 # FoundKittens 🐱
 
+> Anything here isn't really well documented, readme's aren't updated or anything, backend works all fine. A lot of things are duplicates, just overall, a buggy mess.
+
 ⚠️ **DISCLAIMER:** THIS PROJECT IS NOT BEING WORKED ON, I MADE THIS PROJECT TO TEST MY SKILLS, I CANNOT ASSURE THINGS WORK WELL!
 
 A geospatial-enabled lost and found cats tracking platform built with Next.js, Express, and Leaflet.
